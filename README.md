@@ -59,7 +59,7 @@ In summary, this HTML code represents a personal portfolio website for Ganesh Ye
 ## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nitin-pawar-351450227/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/ganeshyevle)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/Nitinpawar07)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/ganesh_yevle9011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/919011256915/?text=Hi%20Ganesh%2C%20Whatsup)
 - Phone: [+91 9011256915](tel:+919011256915)

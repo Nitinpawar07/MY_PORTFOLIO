@@ -8,7 +8,7 @@
 ### Description: 
 - This HTML code appears to be for a personal portfolio website of Nitin Pawar, a front-end developer. The website showcases his skills, education, work experience, projects, certifications, and contact information. It includes sections for his profile, skills with progress bars, educational qualifications, professional skills, work experience, contact details, academic project, additional certifications, and social media links.
 
-In summary, this HTML code represents a personal portfolio website for Ganesh Yevle, highlighting his skills, education, and experience as a front-end developer.
+In summary, this HTML code represents a personal portfolio website for Nitin Pawar, highlighting his skills, education, and experience as a front-end developer.
 
 ### Features of the project:
 

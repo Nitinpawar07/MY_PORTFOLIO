@@ -48,10 +48,6 @@ In summary, this HTML code represents a personal portfolio website for Ganesh Ye
     - The content is structured with headers and subheadings to provide clear organization.
     - Icons from the Font Awesome library are used for visual enhancements.
 
-## Project Screenshots
-<img src="https://github.com/adam-p/markdown-here/assets/90674234/71f541f7-d744-4430-835e-343e7bb705e4" alt="Screenshot 1" width="250">
-<img src="https://github.com/adam-p/markdown-here/assets/90674234/f7cdad64-686e-497b-9b89-6264a1aa9db1" alt="Screenshot 2" width="250">
-<img src="https://github.com/adam-p/markdown-here/assets/90674234/00bf57ff-df79-4bcd-bb5e-ae31fde80bdc" alt="Screenshot 3" width="250">
 
 
 ## Language of Implementation:
@@ -62,7 +58,7 @@ In summary, this HTML code represents a personal portfolio website for Ganesh Ye
 
 ## Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ganeshyevle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nitin-pawar-351450227/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/ganeshyevle)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/ganesh_yevle9011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/919011256915/?text=Hi%20Ganesh%2C%20Whatsup)

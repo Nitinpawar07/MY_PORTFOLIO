@@ -73,6 +73,6 @@ In summary, this HTML code represents a personal portfolio website for Ganesh Ye
 > "Never give up in life. Keep working. Keep trying. Your time will come."
 
 ## Ganesh Yevle
-### Front End Developer
+### Jr. Full Stack Java Developer
 
-@2023 Developed by **Ganesh Yevle**
+@2023 Developed by **Nitin Pawar**
